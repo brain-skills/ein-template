@@ -1080,7 +1080,7 @@ ol ul {
 .rbt-header .mainmenu-nav .mainmenu li.with-megamenu .rbt-megamenu, .rbt-header .mainmenu-nav .mainmenu li.has-dropdown .submenu, .rbt-user-wrapper .rbt-user-menu-list-wrapper, .rbt-category-menu-wrapper .category-dropdown-menu, ul.rbt-dropdown-menu li .sub-menu {
   position: absolute;
   top: 100%;
-  left: 0;
+  right: -30px;
   visibility: hidden;
   clip: rect(0px, 200vw, 0, 0px);
   opacity: 0;
@@ -11626,7 +11626,7 @@ ul.rbt-dropdown-menu.currency-menu li .sub-menu {
   position: relative;
 }
 .rbt-header .rbt-header-wrapper .container-fluid {
-  max-width: 1920px;
+  max-width: 1320px;
 }
 .rbt-header.rbt-header-8 {
   position: absolute;
