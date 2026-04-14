@@ -1102,7 +1102,7 @@ ol ul {
 .rbt-page-banner-wrapper .rbt-banner-image, .bg-gradient-9 {
   position: relative;
   z-index: 1;
-  background: linear-gradient(270deg, var(--color-secondary) 0%, var(--color-primary) 100%) !important;
+  background: linear-gradient(270deg, #ef3734 0%, #0100fb 100%) !important;
 }
 .rbt-page-banner-wrapper .rbt-banner-image::after, .bg-gradient-9::after {
   background: linear-gradient(rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.1) 100%);
@@ -32450,9 +32450,6 @@ Course Sidebar
   overflow: hidden;
   position: relative;
   width: 100%;
-}
-.has-show-more .rbt-course-details-list-wrapper {
-  max-height: 230px;
 }
 .has-show-more .rbt-featured-review-list-wrapper {
   max-height: 550px;
